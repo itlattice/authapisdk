@@ -1,0 +1,20 @@
+{
+    "name": "iboxs/authapi",
+    "description": "composer",
+    "type": "1",
+    "version": "1.0.0",
+    "homepage": "https://auth.itgz8.com/",
+    "authors": [
+        {
+            "name": "hyy",
+            "email": "437513398@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "iboxs\\authapi\\": "src/"
+        }
+    }
+}
