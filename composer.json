@@ -10,10 +10,5 @@
             "name": "itlattice",
             "email": "320587491@qq.com"
         }
-    ],
-    "autoload": {
-        "psr-4": {
-            "iboxs\\authapi\\": "src/"
-        }
-    }
+    ]
 }
