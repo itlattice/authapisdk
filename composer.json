@@ -1,6 +1,6 @@
 {
     "name": "iboxs/authapi",
-    "description": "composer",
+    "description": "授权系统PHP SDK",
     "type": "1",
     "version": "1.0.0",
     "license": "Apache-2.0",
@@ -11,8 +11,6 @@
             "email": "320587491@qq.com"
         }
     ],
-    "minimum-stability":"dev",
-    "require": {},
     "autoload": {
         "psr-4": {
             "iboxs\\authapi\\": "src/"
