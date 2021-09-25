@@ -11,6 +11,7 @@
             "email": "320587491@qq.com"
         }
     ],
+    "minimum-stability":"dev",
     "require": {},
     "autoload": {
         "psr-4": {
